@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar jc-sb px-4">
+  <nav class="navbar jc-sb px-4 py-2">
     <div><strong>CRM</strong></div>
     <div class="d-flex form-input">
       <div class="form-control">

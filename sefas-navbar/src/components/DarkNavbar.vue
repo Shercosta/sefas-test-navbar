@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar bg-333333 text-white justify-content-start px-4 py-0">
-    <div><i class="fa-solid fa-house-chimney px-2"></i></div>
+    <div><i class="fa-solid fa-house-chimney ps-2 pe-3"></i></div>
     <DarkNavbarLinks></DarkNavbarLinks>
   </nav>
 </template>

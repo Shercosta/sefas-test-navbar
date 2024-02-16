@@ -1,14 +1,14 @@
 <script setup>
 import CRMNavbar from "./components/CRMNavbar.vue";
 import DarkNavbar from "./components/DarkNavbar.vue";
-import Experiment from "./components/Experiment.vue";
+import MainContent from "./components/MainContent.vue";
 </script>
 
 <template>
   <main>
     <CRMNavbar></CRMNavbar>
     <DarkNavbar></DarkNavbar>
-    <Experiment></Experiment>
+    <MainContent></MainContent>
   </main>
 </template>
 
